@@ -8,4 +8,7 @@ In CSS style sheet grouped together the atrributes that had same class and selec
 
 ## Usage 
 
-<img src=">
+<img src="https://github.com/jtpham13/horiseon-refactor/blob/main/assets/images/screenshot1.png"/>
+<img src="https://github.com/jtpham13/horiseon-refactor/blob/main/assets/images/screenshot2.png"/>
+
+
