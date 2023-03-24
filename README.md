@@ -12,6 +12,8 @@ In CSS style sheet grouped together the atrributes that had same class and selec
 <img src="https://github.com/jtpham13/horiseon-refactor/blob/main/assets/images/screenshot3.png"/>
 
 
+[Click here for repo](https://github.com/jtpham13/horiseon-refactor)
+[Click here for live site](https://jtpham13.github.io/horiseon-refactor/)
 
 
 ## License
